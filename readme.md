@@ -13,7 +13,7 @@ A. Use this command line
 B. Use the clipboard (for macOS users)
 
 - create a shell script, a file with `.command` extension
-- add the following two lines
+- add the following two lines and register file to the home directory
 
 `#!/usr/bin/env bash`
 
